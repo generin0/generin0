@@ -75,12 +75,6 @@ My solutions and write-ups for various reverse engineering challenges.
 
 ----------
 
-## 📊 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=generin0&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=generin0&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=generin0&theme=radical&hide_border=true" alt="GitHub Streak" /> </p>
-
-----------
-
 ## 🎯 Currently Exploring
 
 ```c
