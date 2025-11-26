@@ -19,7 +19,7 @@ I'm a passionate reverse engineer from **Ukraine** with deep interest in low-lev
 - 🔭 **Currently working on**: Automated analysis tools and shellcode development
 - 🧠 **Learning**: Anti-analysis techniques and evasion methods
 - 💻 **Daily drivers**: `C`, `Python`, `x86/x64 Assembly`, `Bash`
-- 🛠️ **Tools**: IDA Pro, Ghidra, x64dbg, WinDbg, Radare2
+- 🛠️ **Tools**: IDA Pro, Ghidra, x64dbg, WinDbg, GDB
 
 **OS:** Ubuntu x86-64, Windows 11  
 **Shell:** zsh  
